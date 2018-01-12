@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapsPrototype</string>
+    <string name="title_home">Current Location</string>
+    <string name="title_dashboard">Any Location</string>
+</resources>

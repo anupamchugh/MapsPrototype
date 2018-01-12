@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/your_dialog_root_element"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <com.warkiz.widget.IndicatorSeekBar
+        android:id="@+id/seekBar"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:padding="@dimen/activity_horizontal_margin"
+        app:isb_indicator_stay="true"
+        app:isb_indicator_type="rectangle"
+        app:isb_max="100.0"
+        app:isb_min="0.1"
+        app:isb_progress="0.3"
+        app:isb_progress_value_float="true"
+        app:isb_show_indicator="true" />
+
+    <Button
+        android:id="@+id/btnOk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="8dp"
+        android:text="OK" />
+
+</LinearLayout>

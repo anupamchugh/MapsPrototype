@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "729555192672",
+    "firebase_url": "https://onesignaltest-d6aab.firebaseio.com",
+    "project_id": "onesignaltest-d6aab",
+    "storage_bucket": "onesignaltest-d6aab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729555192672:android:83c556ad2aae2bd4",
+        "android_client_info": {
+          "package_name": "com.anupamchugh.mapsprototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729555192672-p5k17rjekomtfk7iucqkk98kl5q81aio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anupamchugh.mapsprototype",
+            "certificate_hash": "f262dc624d512e8a4d3b1ec605645e9c786a13d2"
+          }
+        },
+        {
+          "client_id": "729555192672-96jnmv8eaiib5q2aavn0q618tug19ke8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN9RgfXIrSTF2EeDgD44F4gcfyMkmClOY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729555192672-96jnmv8eaiib5q2aavn0q618tug19ke8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
